@@ -1,0 +1,30 @@
+{
+  "name": "pro-layout",
+  "description": "文件初始化布局插件",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {},
+  "repository": {},
+  "licenses": [],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "stringformat": "0.0.5"
+  }
+}
